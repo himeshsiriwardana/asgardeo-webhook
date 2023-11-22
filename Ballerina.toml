@@ -6,3 +6,8 @@ distribution = "2201.4.1"
 
 [build-options]
 observabilityIncluded = true
+
+[[dependencies]]
+org = "ballerina/websub"
+name = "http"
+version = "2.10.0"
